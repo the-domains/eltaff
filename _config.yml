@@ -1,7 +1,7 @@
 name: eltaff
 favicon: null
-layout_spectrum: 0.41027423134073615
-typography_spectrum: 0.9004878096748143
+layout_spectrum: 0.82561
+typography_spectrum: 0.68119
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6252209532540292
-  lightness: 0.7796148210763931
-  saturation: 0.842592574423179
+    - '#637463'
+    - '#54420f'
+    - '#cdc197'
+    - '#fdf8db'
+    - '#dba040'
+  brandStrength: 0.6875
+  lightness: 0.875
+  saturation: 0.75
   rhythmicContrast: 0.8705038472544402
 purpose: []
